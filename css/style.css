@@ -1,0 +1,45 @@
+.intro-lead-in{
+text-shadow:0px 0px 8px black;
+}
+
+#mainNav .navbar-nav .nav-item .nav-link{
+    text-shadow:0px 0px 3px black;
+}
+
+#mainNav .navbar-brand.active, #mainNav .navbar-brand:active, #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
+	color: #59217e;
+}
+
+#mainNav .navbar-brand {
+    color: #f4ed2f;
+    text-shadow:0px 0px 1px black;
+
+}
+
+.img-fluid {
+	max-width: 100%;
+	height: auto;
+	box-shadow: 0px 0px 7px gray;
+}
+
+section#contact{
+        background-image: url(../img/roan.jpg);
+}
+
+section#contact .section-heading{
+    text-shadow:0px 0px 1px black;
+}
+
+ #questions{
+    color:white;
+    text-shadow:0px 0px 4px black;
+}
+
+#contactbox{
+    background:rgba(0,0,0,.6);
+    padding:25px;
+}
+
+#mainNav{
+    background:rgba(0,0,0,.6);
+}
